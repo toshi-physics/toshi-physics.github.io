@@ -4,5 +4,4 @@
 
 layout: home
 title: "home is where the github host is"
-permalink: ""
 ---
