@@ -20,7 +20,7 @@
 
 title: 'Building this site byte by byte every time I procrastinate'
 email: toshi.tanu08@gmail.com
-description: > This site is under construction. The rate is highly variable and depends on myriad of factors. None shall be enumerated today.
+description: "This site is under construction. The rate is highly variable and depends on myriad of factors. None shall be enumerated today."
 baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://toshi-physics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: aphorism_art
