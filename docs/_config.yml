@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 'Building this site byte by byte every time I procrastinate'
+title: 'Not yet'
 email: toshi.tanu08@gmail.com
-description: "This site is under construction. The rate is highly variable and depends on myriad of factors. None shall be enumerated today." #comment
+description: "This site is under construction. Building it byte by byte everytime I procrastinate. The rate is highly variable and depends on myriad of factors. None shall be enumerated 
+today." #comment
 
-baseurl: "/docs/"
+baseurl: "toshi.physics.github.io/docs"
 url: "https://toshi-physics.github.io"
 twitter_username: aphorism_art
 github_username: toshi-physics
