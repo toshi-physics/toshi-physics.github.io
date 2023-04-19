@@ -28,6 +28,8 @@ baseurl: ""
 url: "https://toshi-physics.github.io"
 twitter_username: aphorism_art
 github_username: toshi-physics
+linkedin_username: toshi-parmar-591453106
+
 
 # Build settings
 theme: minima
@@ -35,7 +37,9 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
+  - jekyll-seo-tag
+minima:
+  skin: solarized
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
