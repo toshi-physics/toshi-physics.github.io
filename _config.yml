@@ -23,7 +23,7 @@ email: toshi.tanu08@gmail.com
 description: "This site is under construction. Building it byte by byte everytime I procrastinate. The rate is highly variable and depends on myriad of factors. None shall be enumerated 
 today." #comment
 domain: toshi.physics.github.io
-baseurl: "/docs"
+baseurl: ""
 url: "https://toshi-physics.github.io"
 twitter_username: aphorism_art
 github_username: toshi-physics
