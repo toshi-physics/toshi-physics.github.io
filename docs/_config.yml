@@ -29,8 +29,8 @@ twitter_username: aphorism_art
 github_username: toshi-physics
 
 # Build settings
-#theme: cayman
-remote_theme: pages-themes/cayman@v0.2.0
+theme: minima
+#remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
