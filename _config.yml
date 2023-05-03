@@ -18,14 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 'Toshi Parmar'
+title: 'Toshi Parmar /t̪oːʂiː prmaːr/'
+author: Toshi Parmar
+pronunciation: '/t̪oːʂiː prmaːr/'
 email: toshi.tanu08@gmail.com
-description: "This site is under construction. Building it byte by byte everytime I procrastinate. The rate is highly variable and depends on 
-myriad of factors, none of which could be enumerated 
-today." #comment
-domain: toshi.physics.github.io
-baseurl: ""
-url: "https://toshi-physics.github.io"
+schoolemail: toshi@ucsb.edu
+description: "Building this site, bit by byte; 
+briefly they live, burning chondrites." #comment
+domain: "web.physics.ucsb.edu"
+baseurl: "/~parmar"
+url: "https://web.physics.ucsb.edu"
 twitter_username: aphorism_art
 github_username: toshi-physics
 linkedin_username: toshi-physics
