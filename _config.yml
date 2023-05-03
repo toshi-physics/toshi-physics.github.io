@@ -25,9 +25,9 @@ email: toshi.tanu08@gmail.com
 schoolemail: toshi@ucsb.edu
 description: "Building this site, bit by byte; 
 briefly they live, burning chondrites." #comment
-domain: "web.physics.ucsb.edu"
-baseurl: "/~parmar"
-url: "https://web.physics.ucsb.edu"
+domain: "toshi-physics.github.io"
+baseurl: ""
+url: "https://toshi-physics.github.io"
 twitter_username: aphorism_art
 github_username: toshi-physics
 linkedin_username: toshi-physics
