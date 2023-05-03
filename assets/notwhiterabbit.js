@@ -23,7 +23,7 @@ function setup() {
   if(swidth<800){
     smol=true;
     canvasx /= 2;
-    canvasy /= 2;
+    //canvasy /= 2;
   }
   var canvas = createCanvas(canvasx, canvasy);
   canvas.parent('sketch-container');
