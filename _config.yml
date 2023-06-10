@@ -46,6 +46,23 @@ defaults:
     values:
       layout: default
 
+collections:
+  fiction:
+    output: true
+    permalink: /reviews/:collection/:name
+  science:
+    output: true
+    permalink: /reviews/:collection/:name
+  current_projects:
+    output: true
+    permalink: /projects/:name
+  past_projects:
+    output: true
+    permalink: /projects/:name
+  writings:
+    output: true
+    permalink: /writings/:name
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
