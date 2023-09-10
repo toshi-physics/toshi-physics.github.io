@@ -1,5 +1,5 @@
 ---
-name: IIT Bombay Physics Department Newsletter
+name: Physics Department Newsletter, IIT Bombay
 position: Editor(2019)  and Contributor(2016)
 ---
 I wrote for the dept. newsletter towards the end of my first year, some tidbits about quantum computing which interested me the most back then. We were studying digital electronics, fourier transforms, and Hadamard gates in various courses and I summarised my few internet rabbithole reading sessions on these topics in an article.
