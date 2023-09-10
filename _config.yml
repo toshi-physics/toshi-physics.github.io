@@ -50,15 +50,19 @@ collections:
   wrylitwri:
     output: true
     permalink: /andanotherthing/:name
+    sort_by: year
   whysciwri:
     output: true
     permalink: /andanotherthing/:name
+    sort_by: year
   current_projects:
     output: true
     permalink: /projects/:name
+    sort_by: year
   past_projects:
     output: true
     permalink: /projects/:name
+    sort_by: year
 
 # Exclude from processing.
 # The following items will not be processed, by default.

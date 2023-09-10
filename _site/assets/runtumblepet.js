@@ -33,7 +33,7 @@ let npoint;
 let pospoint = [];
 
 function preload(){
-  font = loadFont("./assets/Dosis.ttf");
+  font = loadFont("/assets/Dosis.ttf");
 }
 
 function setup() { 

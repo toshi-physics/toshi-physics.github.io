@@ -5,15 +5,18 @@ permalink: /andanotherthing/
 ---
 Other human things I do, create, and write about.
 
-List of recent writings:
-
-Scientific:
+<h1>Recent sci-comm writings:</h1>
 {% for recent_sci in site.whysciwri %}
-  <h2><a href="{{ recent_sci.url }}">{{ recent_sci.name }}</a></h2>
+  <h3><a href="{{ recent_sci.url }}">{{ recent_sci.name }}</a>, work as {{recent_sci.position}}.</h3> 
 {% endfor %}
 
-Literature:
+<h1>Recent literary/journalism work:</h1>
 {% for recent_lit in site.wrylitwri %}
-  <h2><a href="{{ recent_lit.url }}">{{ recent_lit.name }}</a></h2>
+  <h3><a href="{{ recent_lit.url }}">{{ recent_lit.name}}</a>
+  {% if recent_lit.name == "Insight-Campus Journalism, IIT Bombay"%}, work as {{recent_lit.position}}.
+  {% endif %}
+  </h3> 
 {% endfor %}
-
+<div id="sketch-container" style="text-align:center;">
+			<script type="text/javascript" src=" {{ "assets/notwhiterabbit.js"  | relative_url }} "></script>
+		</div>

@@ -1,7 +1,6 @@
 ---
+title: "About Me"
 layout: default
-title: About Me
-permalink: /aboutme/
 ---
 
 <body> 
@@ -23,4 +22,3 @@ at
 noreferrer"}—neither 
 an engineer nor a physicist but a secret third 
 confluence of the two.
-
