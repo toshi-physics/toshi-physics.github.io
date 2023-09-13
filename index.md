@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 layout: default
+priority: 1
 ---
 
 <body> 

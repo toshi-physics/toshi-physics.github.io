@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 permalink: /projects/
+priority: 2
 ---
 Here's a list of projects that interest me,
 {% for current_project in site.current_projects %}
