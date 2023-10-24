@@ -3,6 +3,7 @@ name: Liq-Ar Time Projection Chamber
 collaborators: Ken Sakashita
 year: 2017
 institute: KEK SOKENDAI, Japan
+order: 1
 ---
 Advisor: [Ken Sakashita, KEK IPNS](https://souran.kek.jp/kss/staffDetailInformation/view/1336)
 

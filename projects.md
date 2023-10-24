@@ -3,13 +3,16 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-Here's a list of projects that interest me,
-{% for current_project in site.current_projects %}
-  <h2><a href="{{ current_project.url }}">{{ current_project.name }}</a></h2>
+Here's a list of projects that I've worked on:
+{% assign year_sorted_current_projects = site.current_projects | sort: 'order' | reverse%}
+{% for current_project in year_sorted_current_projects %}
+  - <h2><a href="{{ current_project.url | relative_url}}">{{ current_project.name }}</a></h2>
 {% endfor %}
 
-{% for past_project in site.past_projects %}
-  <h2><a href="{{ past_project.url }}">{{ past_project.name }}</a></h2>
+{% assign year_sorted_past_projects = site.past_projects | sort_natural: 'year' | reverse %}
+
+{% for past_project in year_sorted_past_projects %}
+  - <h2><a href="{{ past_project.url | relative_url}}">{{ past_project.name }}</a></h2>
 {% endfor %}
 <html>
 	<body>
