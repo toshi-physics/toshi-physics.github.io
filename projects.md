@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 permalink: /projects/
+priority: 2
 ---
 Here's a list of projects that I've worked on:
 {% assign year_sorted_current_projects = site.current_projects | sort: 'order' | reverse%}

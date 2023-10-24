@@ -1,14 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://toshi-physics.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://toshi-physics.github.io/" rel="alternate" type="text/html" /><updated>2023-10-24T13:42:43-07:00</updated><id>https://toshi-physics.github.io/feed.xml</id><title type="html">Toshi Parmar /t̪oːʂiː prmaːr/</title><subtitle>Building this site, bit by byte; briefly they live, burning chondrites.</subtitle><author><name>Toshi Parmar</name></author><entry><title type="html">Welcome to my webpage!</title><link href="https://toshi-physics.github.io/update/2023/04/07/welcome-to-my-webpage.html" rel="alternate" type="text/html" title="Welcome to my webpage!" /><published>2023-04-07T17:52:24-07:00</published><updated>2023-04-07T17:52:24-07:00</updated><id>https://toshi-physics.github.io/update/2023/04/07/welcome-to-my-webpage</id><content type="html" xml:base="https://toshi-physics.github.io/update/2023/04/07/welcome-to-my-webpage.html">&lt;html&gt;
-	&lt;head&gt;
-		&lt;script src=&quot;https://cdn.jsdelivr.net/npm/p5@1.6.0/lib/p5.js&quot;&gt;&lt;/script&gt;
-	&lt;/head&gt;
-	&lt;body&gt;
-		&lt;h1&gt; Hi there! &lt;/h1&gt;
-		&lt;p&gt; I am slowly migrating my work here. In the meantime, have you made firends with &lt;a href=&quot;/projects&quot;&gt;Batuk&lt;/a&gt; yet? &lt;/p&gt;
-		&lt;p&gt; I have a list of recent &lt;a href=&quot;/projects&quot;&gt;projects&lt;/a&gt; and &lt;a href=&quot;/andanotherthing/&quot;&gt;writings&lt;/a&gt; up. Rest soon to follow.&lt;/p&gt;
-		&lt;p&gt; It has taken me a while in my life to begin to collate all my scattered blogs into one cohesive tapestry. But I learned from my wiser friends that a patchwork collage is just fine.&lt;/p&gt;
-		&lt;div id=&quot;sketch-container&quot; style=&quot;text-align:center;&quot;&gt;
-			&lt;script type=&quot;text/javascript&quot; src=&quot; /assets/notwhiterabbit.js &quot;&gt;&lt;/script&gt;
-		&lt;/div&gt;
-	&lt;/body&gt;
-&lt;/html&gt;</content><author><name>Toshi Parmar</name></author><category term="update" /><summary type="html">Hi there! I am slowly migrating my work here. In the meantime, have you made firends with Batuk yet? I have a list of recent projects and writings up. Rest soon to follow. It has taken me a while in my life to begin to collate all my scattered blogs into one cohesive tapestry. But I learned from my wiser friends that a patchwork collage is just fine.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://toshi-physics.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://toshi-physics.github.io/" rel="alternate" type="text/html" /><updated>2023-10-24T13:51:38-07:00</updated><id>https://toshi-physics.github.io/feed.xml</id><title type="html">Toshi Parmar /t̪oːʂiː prmaːr/</title><subtitle>Building this site, bit by byte; briefly they live, burning chondrites.</subtitle><author><name>Toshi Parmar</name></author><entry><title type="html">Welcome To My Webpage</title><link href="https://toshi-physics.github.io/2023/04/07/welcome-to-my-webpage.html" rel="alternate" type="text/html" title="Welcome To My Webpage" /><published>2023-04-07T00:00:00-07:00</published><updated>2023-04-07T00:00:00-07:00</updated><id>https://toshi-physics.github.io/2023/04/07/welcome-to-my-webpage</id><content type="html" xml:base="https://toshi-physics.github.io/2023/04/07/welcome-to-my-webpage.html">&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD HTML 4.01//EN&quot; &quot;http://www.w3.org/TR/html4/strict.dtd&quot;&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;
+  &lt;meta http-equiv=&quot;Content-Style-Type&quot; content=&quot;text/css&quot;&gt;
+  &lt;title&gt;&lt;/title&gt;
+  &lt;meta name=&quot;Generator&quot; content=&quot;Cocoa HTML Writer&quot;&gt;
+  &lt;meta name=&quot;CocoaVersion&quot; content=&quot;2299.7&quot;&gt;
+  &lt;style type=&quot;text/css&quot;&gt;
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;--- layout: post title: &quot;Welcome to my webpage!&quot; date: 2023-04-07 17:52:24 -0700 categories: update ---&lt;/span&gt;&lt;/p&gt;
+&lt;h1 style=&quot;margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; -webkit-text-stroke: #000000&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;b&gt;Hi there!&lt;/b&gt;&lt;/span&gt;&lt;/h1&gt;
+&lt;p class=&quot;p3&quot;&gt;&lt;span class=&quot;s1&quot;&gt;I am slowly migrating my work here. In the meantime, have you made friends with &lt;a href=&quot;file:///projects&quot;&gt;&lt;span class=&quot;s2&quot;&gt;Batuk&lt;/span&gt;&lt;/a&gt; yet?&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;&lt;span class=&quot;s1&quot;&gt;I have a list of recent &lt;a href=&quot;file:///projects&quot;&gt;&lt;span class=&quot;s2&quot;&gt;projects&lt;/span&gt;&lt;/a&gt; and &lt;a href=&quot;file:///andanotherthing/&quot;&gt;&lt;span class=&quot;s2&quot;&gt;writings&lt;/span&gt;&lt;/a&gt; up. Rest soon to follow.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p3&quot;&gt;&lt;span class=&quot;s1&quot;&gt;It has taken me a while in my life to begin to collate all my scattered blogs into one cohesive tapestry. But I learned from my wiser friends that a patchwork collage is just fine.&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p4&quot;&gt;&lt;span class=&quot;s1&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content><author><name>Toshi Parmar</name></author><summary type="html">--- layout: post title: &quot;Welcome to my webpage!&quot; date: 2023-04-07 17:52:24 -0700 categories: update --- Hi there! I am slowly migrating my work here. In the meantime, have you made friends with Batuk yet? I have a list of recent projects and writings up. Rest soon to follow. It has taken me a while in my life to begin to collate all my scattered blogs into one cohesive tapestry. But I learned from my wiser friends that a patchwork collage is just fine.</summary></entry></feed>
