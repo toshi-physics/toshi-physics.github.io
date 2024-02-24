@@ -9,6 +9,7 @@ Collaborators: Beth L. Pruitt, Liam P. Dow, M. Cristina Marchetti
 How do epithelial cells confined in 1 dimesional long fibronextin patterns respond to external perturbations, like localised boundary step-strains or oscillatory strains? We study this local rheological response in theory (continuum model) and simulations (phase field and vertex models) to understand experimentally observed rich phenomena.
 
 I presented some early results in a [talk at APS March Meeting 2023](https://meetings.aps.org/Meeting/MAR23/Session/D06.2).
+I will be presenting some polished results in a [talk at APS March Meeting 2024](https://meetings.aps.org/Meeting/MAR24/Session/T27.11).
 
 <body> 
 	<div id="img-container" style="text-align:center;">
