@@ -1,3 +1,4 @@
+
 /**
  * Site header
  */
@@ -178,6 +179,7 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  background-image: url('{{ site.baseurl }}/assets/smals.png');
 }
 
 .page-heading {
@@ -255,9 +257,18 @@
 }
 
 /* Cover Image */
-.hero {
-  .feature-img: {
-    max-width: 100%;
-  }
-  background: url('http://localhost:4000/assets/bitstream.png')
+header {
+  background-image: url('/assets/smals.png');
+}
+.bg {
+  /* The image used */
+  background-image: url("/assets/smals.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }

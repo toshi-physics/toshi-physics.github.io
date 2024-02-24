@@ -3,7 +3,7 @@ name: Book Recommendations
 ---
 I try to systematically log all my books on [Goodreads](https://www.goodreads.com/user/show/58088325-toshi-parmar). 
 ## Authors with a relatively short oeuvre
-Although often misguided, fame and familiarity cling to an author's most approachable and best works. I have always found it a safe bet to start from the most reviewed piece to get to know an author's style. These are some names whose works I have drunk, in uncontrollable binges through times tough and easy, through days full of light and nights without -
+Although often in a misguided way, fame and familiarity cling to an author's most approachable and best works. I have always found it a safe bet to start from the most reviewed piece to get to know an author's style. These are some names whose works I have almost inhaled in uncontrollable binges through times tough and easy, through days full of light and nights without -
 
 - Arundhati Roy
 - Bohumil Hrabal.
@@ -45,4 +45,8 @@ A small publication house named after a Herzog character. They publish a handful
 #### Granta
 I found a dilapidated copy with frayling spine at one of Mumbai's several 'books by weight' events (it is exactly what it sounds like). Back then I was a broke undegraduate living in India with no means to afford the subscription; it took me seven years but I got my wish!
 
-I am continually updating this page as I find more 
+<body> 
+	<div id="sketch-container" style="text-align:center;">
+                <script type="text/javascript" src="{{ "assets/picrewtoshi.js" | relative_url }}"></script>
+        </div>
+</body>

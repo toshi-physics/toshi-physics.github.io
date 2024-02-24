@@ -8,6 +8,14 @@
     {%- include header.html -%}
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+        <style>
+          body {
+            background-image: url('{{ site.baseurl }}/assets/smalss.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;  
+            background-size: cover;
+          }
+          </style>
         {{ content }}
       </div>
     </main>

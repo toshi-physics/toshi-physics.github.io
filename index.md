@@ -1,14 +1,8 @@
 ---
 title: "About Me"
-layout: default
+layout: aboutme
 priority: 1
 ---
-
-<body> 
-	<div id="sketch-container" style="text-align:center;">
-                <script type="text/javascript" src="{{ "assets/picrewtoshi.js" | relative_url }}"></script>
-        </div>
-</body>
 
 I'm a grad student at UC Santa Barbara in the [Marchetti 
 group](https://marchetti.physics.ucsb.edu){:target="_blank"}{:rel="noopener 
@@ -18,8 +12,5 @@ dynamics of E. Coli. and temperate lambda phages; Autonomous Boolean Network for
 bone remodelling; and detection of mu-neutrinos in Liq-Ar Time Projection Chambers.
 
 I am interested in understanding why living systems, biological or otherwise, behave the way they do. I was trained as an Engineering Physicist 
-at 
-[IIT-Bombay](https://www.phy.iitb.ac.in/){:target="_blank"}{:rel="noopener
-noreferrer"}—neither 
-an engineer nor a physicist but a secret third 
-confluence of the two.
+at [IIT-Bombay](https://www.phy.iitb.ac.in/){:target="_blank"}{:rel="noopener
+noreferrer"}—neither an engineer nor a physicist but a secret third confluence of the two.
