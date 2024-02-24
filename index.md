@@ -11,6 +11,6 @@ Lab](https://pruittlab.engineering.ucsb.edu){:target="_blank"}{:rel="noopener no
 dynamics of E. Coli. and temperate lambda phages; Autonomous Boolean Network formalism of chemomechanical regulatory networks involved in 
 bone remodelling; and detection of mu-neutrinos in Liq-Ar Time Projection Chambers.
 
-I am interested in understanding why living systems, biological or otherwise, behave the way they do. I was trained as an Engineering Physicist 
+I am interested in understanding the physics of biology. Why do living systems behave the way they do? I was trained as an Engineering Physicist 
 at [IIT-Bombay](https://www.phy.iitb.ac.in/){:target="_blank"}{:rel="noopener
 noreferrer"}—neither an engineer nor a physicist but a secret third confluence of the two.
