@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: aboutme
+layout: default
 priority: 1
 ---
 
