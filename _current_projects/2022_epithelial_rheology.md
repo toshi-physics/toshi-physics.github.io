@@ -15,7 +15,7 @@ I presented some early results in a [talk at APS March Meeting 2023](https://mee
         <img src="/assets/Insilico.png" alt="Image with three subinages, a is a sketch of vertex model, b is a sketch of the phase field model and c is a sketch of continuum model.">
     </div>
 </body>
-Model schematic taken from [our review](https://doi.org/10.1063/5.0142537).
+Model schematic taken from [our review]({{ "assets/BPR_Engineering_Methods_for_Collective_Cell_Studies.pdf"  | relative_url }}).
 <body> 
 	<div id="img-container" style="text-align:center;">
         <img src="/assets/1D_Vertex_Model.png" alt="Schematic of a 1D vertex model with dynamical rest length and chemomechanical couplings.">
