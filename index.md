@@ -5,7 +5,7 @@ priority: 1
 ---
 
 <div id="img-container" style="text-align:center;">
-        <img src="/assets/into-photo.jpeg" alt="Image of the website author in a blue dress and red headband.">
+        <img src="/assets/intro_photo.jpeg" alt="Image of the website author in a blue dress and red headband.">
     </div>
 
 I'm a grad student at UC Santa Barbara in the [Marchetti 
