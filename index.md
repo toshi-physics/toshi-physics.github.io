@@ -4,6 +4,10 @@ layout: default
 priority: 1
 ---
 
+<div id="img-container" style="text-align:center;">
+        <img src="/assets/into-photo.jpeg" alt="Image of the website author in a blue dress and red headband.">
+    </div>
+
 I'm a grad student at UC Santa Barbara in the [Marchetti 
 group](https://marchetti.physics.ucsb.edu){:target="_blank"}{:rel="noopener 
 noreferrer"}. My work broadly encompasses the mechanics and patterning of cells and tissues. I'm currently playing with modelling nematic cells growing atop nematic substrates inspired by the wonderful [work](http://doi.org/10.1098/rsif.2023.0160){:target="_blank"}{:rel="noopener
