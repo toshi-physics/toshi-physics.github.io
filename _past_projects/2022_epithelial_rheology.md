@@ -6,7 +6,7 @@ institute: Department of Physics, University of California Santa Barbara
 ---
 Collaborators: Beth L. Pruitt, Liam P. Dow, M. Cristina Marchetti
 
-Publications: [Preprint can be accessed here.](https://doi.org/10.48550/arXiv.2408.02806)
+Publications: [Published in PRX Life (open access)](DOI: https://doi.org/10.1103/PRXLife.3.013002)
 
 How do epithelial cells confined in 1 dimesional long fibronectin patterns respond to external perturbations, like localised boundary step-strains or oscillatory strains? We study this local rheological response in theory (continuum model) and simulations (phase field and vertex models) to understand experimentally observed rich phenomena.
 
