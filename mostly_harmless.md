@@ -2,7 +2,7 @@
 layout: default
 title: Mostly Harmless
 permalink: /andanotherthing/
-priority: 3
+priority: 4
 ---
 Other human things I do, create, and write about.
 

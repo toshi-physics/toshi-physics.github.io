@@ -67,6 +67,7 @@ collections:
 header_pages:
   - index.md
   - projects.md
+  - CV.md
   - mostly_harmless.md
 # Exclude from processing.
 # The following items will not be processed, by default.
