@@ -1,12 +1,12 @@
 ---
-name: Growing Nematic Under an External Field
+name: Collective Alignment in a Proliferating Nematic
 collaborators: Fridtjof Brauns, Yimin Luo, M. Cristina Marchetti
 year: 2024
 institute: Department of Physics, University of California Santa Barbara
 ---
 Collaborators: Fridtjof Brauns, Yimin Luo, M. Cristina Marchetti
 
-Publications: [Published in PRX Life (open access).](DOI: https://doi.org/10.1103/5nx2-fqgt) [Preprint can be accessed here.](https://doi.org/10.48550/arXiv.2507.11754)
+Publications: [Published in PRX Life (open access).](https://doi.org/10.1103/5nx2-fqgt) [Preprint can be accessed here.](https://doi.org/10.48550/arXiv.2507.11754)
 
 Motivated by recent experiments on growing fibroblasts, we examine the development of nematic order in a colony of elongated cells proliferating on a nematic elastomer substrate. After sparse seeding, the cells divide and grow into locally ordered, but randomly oriented, domains that then interact with each other and the substrate. Global alignment with the substrate is only achieved above a critical density, suggesting a collective mechanism for the sensing of substrate anisotropy. The system jams at high density, where both reorientation and proliferation stop. Using a continuum model of a proliferating nematic liquid crystal, we examine the competition between growth-driven alignment and substrate-driven alignment in controlling the density and structure of the final jammed state. We propose that anisotropic traction forces and the tendency of cells to align perpendicular to the direction of density gradients act in concert to provide a mechanism for collective cell alignment.
 
